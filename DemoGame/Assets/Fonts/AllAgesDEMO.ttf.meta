@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 37f4a61a9fedd6b4480e2507319bf8cd
+timeCreated: 1503618692
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ALL AGES
+  fontNames:
+  - ALL AGES
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3362ec2a4cb702e47976176dcfe41694, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

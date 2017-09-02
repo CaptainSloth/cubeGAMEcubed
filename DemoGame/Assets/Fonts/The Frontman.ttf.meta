@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: afc148d9c9e5a3549b808881fcc2b81f
+timeCreated: 1503618692
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Frontman
+  fontNames:
+  - The Frontman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

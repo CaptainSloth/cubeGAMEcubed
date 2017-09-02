@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d1b5fc70e9ed41c41982e756d808514a
+timeCreated: 1502591806
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Typo Grotesk Rounded
+  fontNames:
+  - Typo Grotesk Rounded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4901af2af23b3244b6fad96e82cb68d, type: 3}
+  - {fileID: 12800000, guid: 058fb694edfb1ed45957198b7d3b776f, type: 3}
+  - {fileID: 12800000, guid: b846617feece55a48ab1e3fc4238ca96, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

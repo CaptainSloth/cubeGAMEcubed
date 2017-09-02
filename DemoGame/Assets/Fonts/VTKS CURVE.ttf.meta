@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f2afd21f68c593341a042fb13e84c62e
+timeCreated: 1503618692
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VTKS CURVE
+  fontNames:
+  - VTKS CURVE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

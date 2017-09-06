@@ -82,8 +82,10 @@
     <Compile Include="Assets\Scripts\Credits.cs" />
     <Compile Include="Assets\Scripts\EndTrigger.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+    <Compile Include="Assets\Scripts\FXVolumeSlider.cs" />
     <Compile Include="Assets\Scripts\LevelComplete.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
+    <Compile Include="Assets\Scripts\PauseGame.cs" />
     <Compile Include="Assets\Scripts\playerCollision.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />

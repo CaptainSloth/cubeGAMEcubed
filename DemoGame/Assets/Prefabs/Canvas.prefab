@@ -99,7 +99,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &95154514814237754
 Animator:
   serializedVersion: 3
@@ -292,7 +292,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 250
+  m_Text: 0
 --- !u!114 &114981883946648554
 MonoBehaviour:
   m_ObjectHideFlags: 1

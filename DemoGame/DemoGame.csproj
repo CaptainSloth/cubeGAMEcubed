@@ -104,8 +104,6 @@
     <Compile Include="Assets\Scripts\playerCollision.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
-    <Compile Include="Assets\Sport Car - 3D model\Scripts\CameraScript.cs" />
-    <Compile Include="Assets\Sport Car - 3D model\Scripts\LightEffects.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />

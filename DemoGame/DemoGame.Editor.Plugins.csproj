@@ -126,13 +126,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="DemoGame.Plugins.csproj">
-      <Project>{B797D18E-0B28-738C-DA97-9E3B31251477}</Project>
-      <Name>DemoGame.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="DemoGame.csproj">
       <Project>{49B1ED2A-47AF-C080-1FC3-911382AB5674}</Project>
       <Name>DemoGame</Name>
+    </ProjectReference>
+    <ProjectReference Include="DemoGame.Plugins.csproj">
+      <Project>{B797D18E-0B28-738C-DA97-9E3B31251477}</Project>
+      <Name>DemoGame.Plugins</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -177,6 +177,11 @@
     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
+    <None Include="Assets\UCLAGameLab\Wireframe\Shaders\UCLA GameLab Cutout Wireframe.shader" />
+    <None Include="Assets\UCLAGameLab\Wireframe\Shaders\UCLA GameLab Double-Sided Cutout Wireframe.shader" />
+    <None Include="Assets\UCLAGameLab\Wireframe\Shaders\UCLA GameLab Double-Sided Wireframe.shader" />
+    <None Include="Assets\UCLAGameLab\Wireframe\Shaders\UCLA GameLab Wireframe Functions.cginc" />
+    <None Include="Assets\UCLAGameLab\Wireframe\Shaders\UCLA GameLab Wireframe.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

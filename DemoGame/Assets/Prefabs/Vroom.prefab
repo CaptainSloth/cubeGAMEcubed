@@ -29,7 +29,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1025068608783150
 GameObject:
   m_ObjectHideFlags: 1
@@ -200,7 +200,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1343247510708772
 GameObject:
   m_ObjectHideFlags: 1
@@ -214,6 +214,7 @@ GameObject:
   - component: {fileID: 124992704422804112}
   - component: {fileID: 81516017658714222}
   - component: {fileID: 114015443412027338}
+  - component: {fileID: 45262343590488108}
   m_Layer: 0
   m_Name: Chase Cam
   m_TagString: MainCamera
@@ -304,7 +305,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1510298294737018
 GameObject:
   m_ObjectHideFlags: 1
@@ -321,7 +322,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1580809962026884
 GameObject:
   m_ObjectHideFlags: 1
@@ -338,7 +339,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1603223805832236
 GameObject:
   m_ObjectHideFlags: 1
@@ -403,7 +404,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1828768586779522
 GameObject:
   m_ObjectHideFlags: 1
@@ -437,7 +438,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1911766197005224
 GameObject:
   m_ObjectHideFlags: 1
@@ -454,7 +455,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1912785083705986
 GameObject:
   m_ObjectHideFlags: 1
@@ -569,7 +570,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4014019492730956
 Transform:
   m_ObjectHideFlags: 1
@@ -1039,8 +1040,8 @@ Camera:
   m_GameObject: {fileID: 1343247510708772}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.6397059, g: 0.6397059, b: 0.6397059, a: 0}
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0.197}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -1653,6 +1654,14 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1168750138987064}
   m_Mesh: {fileID: 4300048, guid: e6fec471c20b9d148b1f87910e67bea4, type: 3}
+--- !u!45 &45262343590488108
+Skybox:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1343247510708772}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 955dee47a6b7fb14fa9c9fc0ab7c2c06, type: 2}
 --- !u!54 &54483682125188662
 Rigidbody:
   m_ObjectHideFlags: 1
